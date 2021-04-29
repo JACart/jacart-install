@@ -1,0 +1,21 @@
+[submodule "ai-navigation"]
+	path = ai-navigation
+	url = https://github.com/JACart/ai-navigation.git
+[submodule "local-server"]
+	path = local-server
+	url = https://github.com/JACart/local-server.git
+[submodule "cart-ui"]
+	path = cart-ui
+	url = https://github.com/JACart/cart-ui.git
+[submodule "local-admin"]
+	path = local-admin
+	url = https://github.com/JACart/local-admin.git
+[submodule "jacart-zed"]
+	path = jacart-zed
+	url = https://github.com/JACart/jacart-zed.git
+[submodule "openpose"]
+	path = openpose
+	url = https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+[submodule "zed-ros-wrapper"]
+	path = zed-ros-wrapper
+	url = https://github.com/stereolabs/zed-ros-wrapper.git
