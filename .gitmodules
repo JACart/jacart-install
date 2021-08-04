@@ -19,3 +19,9 @@
 [submodule "zed-ros-wrapper"]
 	path = zed-ros-wrapper
 	url = https://github.com/stereolabs/zed-ros-wrapper.git
+[submodule "av_record"]
+	path = av_record
+	url = https://github.com/JACart/av_record.git
+[submodule "cart-ui-offline"]
+	path = cart-ui-offline
+	url = https://github.com/JACart/cart-ui-offline.git
